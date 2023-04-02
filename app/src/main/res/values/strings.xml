@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JetpackNav</string>
+    <string name="urlParrot">https://previews.123rf.com/images/altinosmanaj/altinosmanaj1703/altinosmanaj170300004/73493164-a-close-up-portrait-of-macaw-parrot-in-square-composition.jpg</string>
+    <string name="urlCat">https://thumbs.dreamstime.com/b/cute-cat-portrait-square-photo-beautiful-white-closeup-105311158.jpg</string>
+    <string name="urlDog">https://media.wired.com/photos/5c01dbc43028102cdb865eab/1:1/w_1290,h_1290,c_limit/Dog-gift-guide-955715252.jpg</string>
+
+    <string name="fullDescCat">Little Cat\nHas 4 paws</string>
+    <string name="fullDescDog">Big dog\nWeight: 22kg\nHeight: 45cm</string>
+    <string name="fullDescParrot">Kind of parrot: Ara\nColors: Red, yellow, blue\nSmart And Talking Parrot
+    </string>
+</resources>
